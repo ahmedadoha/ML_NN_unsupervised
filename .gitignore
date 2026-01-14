@@ -8,7 +8,8 @@ __pycache__/
 # ML / TensorFlow
 *.ckpt
 *.log
-*.csv
+cd0026/Identify_Customer_Segments/Udacity_AZDIAS_Subset.csv
+
 
 # Env
 .env
